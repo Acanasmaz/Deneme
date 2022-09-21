@@ -5,4 +5,3 @@ sa
 as
 
 
-[lorem.ipsum](http://google.com)
